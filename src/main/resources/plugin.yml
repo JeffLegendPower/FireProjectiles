@@ -1,0 +1,11 @@
+name: FireProjectiles
+version: ${project.version}
+main: io.github.jefflegendpower.firearrows.FireArrows
+api-version: 1.16
+authors: [ JeffLegendPower ]
+description: fire arrows boiiiiiiiiiiiiiiii
+commands:
+  fireitems:
+    description: FireItems GUI
+    usage: /fireitems
+    permission: fireitems.admin

@@ -1,6 +1,6 @@
 package io.github.jefflegendpower.firearrows.items;
 
-import io.github.jefflegendpower.firearrows.Utils;
+import io.github.jefflegendpower.firearrows.Utils.Utils;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.entity.HumanEntity;

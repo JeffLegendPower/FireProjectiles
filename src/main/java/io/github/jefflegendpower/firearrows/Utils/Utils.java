@@ -1,4 +1,4 @@
-package io.github.jefflegendpower.firearrows;
+package io.github.jefflegendpower.firearrows.Utils;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

@@ -1,5 +1,6 @@
 package io.github.jefflegendpower.firearrows;
 
+import io.github.jefflegendpower.firearrows.Utils.Utils;
 import io.github.jefflegendpower.firearrows.items.GUI;
 import io.github.jefflegendpower.firearrows.listeners.LavaRiptide;
 import org.bukkit.command.Command;

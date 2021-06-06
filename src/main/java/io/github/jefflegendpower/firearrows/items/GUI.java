@@ -18,7 +18,7 @@ public class GUI implements Listener {
     public Items items = new Items();
     private final Inventory inv;
     public GUI() {
-        inv = Bukkit.createInventory(null, 6*9, Utils.chat("&3UtopiaItems"));
+        inv = Bukkit.createInventory(null, 6*9, Utils.chat("&4FireProjectiles"));
 
         // Put the items into the inventory
         initializeItems();
